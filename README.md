@@ -2,6 +2,8 @@
 
 Aggregates news articles using k-means clustering.
 
+[Visit the website](http://www.speciousnews.com)
+
 ---
 ### 1. Setup Docker
 
