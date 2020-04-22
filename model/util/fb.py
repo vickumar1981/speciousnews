@@ -12,11 +12,8 @@ def post_message(topic):
         "access_token": _config.facebook.access_token
     }
     attachment = {
-        "name": topic['title'],
         "link": topic['url'],
-        'caption': "http://www.speciousnews.com",
-        'description': topic['keywords'],
-        'picture': topic['image']
+        'caption': "http://www.speciousnews.com"
     }
     try:
         api = facebook.GraphAPI(cfg["access_token"])

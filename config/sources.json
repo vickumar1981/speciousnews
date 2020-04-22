@@ -455,14 +455,6 @@
         "http://www.dailystar.com.lb/RSS.aspx?pId=185",
         "http://www.dailystar.com.lb/RSS.aspx?pId=184"
         ],
-      "Miami Herald": [
-        "http://www.miamiherald.com/news/state/florida/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "http://www.miamiherald.com/news/politics-government/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "http://www.miamiherald.com/news/local/education/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "http://www.miamiherald.com/news/local/environment/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "http://www.miamiherald.com/news/nation-world/national/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true",
-        "http://www.miamiherald.com/news/nation-world/world/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true"
-        ],
       "Houston Chronicle": [
         "http://www.chron.com/rss/feed/News-270.php",
         "http://www.chron.com/rss/feed/Politics-275.php",
