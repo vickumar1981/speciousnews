@@ -1,5 +1,5 @@
 attrdict==2.0.0
-Django==1.11
+Django==2.2.24
 dj-database-url==0.4.2
 django-graphos==0.3.41
 django-robots==3.0
